@@ -1,4 +1,4 @@
-# micaellyguimaraes1
+
 
 # Hi, I'm Micaelly! 👋
 
@@ -11,7 +11,7 @@ I'm passionate about technology and learning new skills in programming and IT.
 - 💻 Beginner in programming, exploring HTML, CSS and other exciting technologies.
 
 ## 📫 Let's Connect!
-- 📎 [LinkedIn](https://www.linkedin.com/in/micaelly-guimaraes)  
+- 📎 [LinkedIn](www.linkedin.com/in/micaelly-guimarães-a5a05b260 
 - ✉️ Email: micaellyguimaraes21@homail.com
 
 ## ⚡ Fun Fact
